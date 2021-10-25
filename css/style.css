@@ -84,7 +84,7 @@ header{
     body > header {
         position: sticky;
         top: 0px;
-    }
+        }
 
     .nav_links {
         flex-direction: row;
